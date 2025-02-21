@@ -1,0 +1,10 @@
+# Ignore everything outside this directory
+/*
+
+# But track all files in this directory
+!/.gitignore
+!/.deps
+!/.git
+!/Contracts
+!/Scripts
+!/Tests
